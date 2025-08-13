@@ -1,5 +1,5 @@
 //Program to demonstrate if..else statement
-package day1.basics;
+package day1;
 
 public class IfElseDemo {
 	public static void main(String[] args) {
